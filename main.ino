@@ -1,7 +1,7 @@
 class Motor
 {
 public:
-    Motor()
+    Motor(int pin_dir, int pin_pwm)
     {
     }
 };
